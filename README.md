@@ -15,7 +15,7 @@
 <br> 
 <br> 
 
-## <h3 align="center"> [Clique aqui para ver 🔛](https://davi22d.github.io/Projeto-CSS-Easy/) </h3>
+## <h3 align="center"> [Clique aqui para ver 🔛](https://davi22d.github.io/PROJETO-WE-CARE/) </h3>
 <br>
 <br>
 
@@ -29,6 +29,5 @@
 <br>
 
 Made by Davi Izidoro do Nascimento :wave: [Entre em contato!](https://www.linkedin.com/in/davi-izidoro/) 
-
 
 
